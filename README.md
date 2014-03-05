@@ -1,4 +1,4 @@
-joonascope
+Joonascope
 ==========
 
 Learning Meteor
